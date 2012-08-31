@@ -1,8 +1,7 @@
-
 <project>
     <modelVersion>4.0.0</modelVersion>
-    <groupId>training-ulang</groupId>
-    <artifactId>latihan</artifactId>
+    <groupId>training-java</groupId>
+    <artifactId>belajar-servlet</artifactId>
     <version>1.0.0</version>
 <!-- penambahan packaging agar di dibungkus menjadi file war -->
     <packaging>war</packaging>
